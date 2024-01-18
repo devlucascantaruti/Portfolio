@@ -17,6 +17,7 @@ Desenvolvedor Full-Stack</h1>
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
+## Tecnologias
 <div align="center">
   <hr>
     <img src="https://skillicons.dev/icons?i=html,css,js,firebase,java,bootstrap,electron,git,github,react,mongodb,nodejs,jquery">
