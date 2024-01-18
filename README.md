@@ -1,4 +1,4 @@
-<h1>Olá, bem vindo ao meu perfil!
+<h1>
   
 Desenvolvedor Full-Stack</h1>
 
@@ -17,6 +17,10 @@ Desenvolvedor Full-Stack</h1>
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
+<div align="center">
+  <hr>
+    <img src="https://skillicons.dev/icons?i=html,css,js,firebase,java,bootstrap,electron,git,github,react,mongodb,nodejs,jquery">
+</div>
 
 <!---
 lucascantaruti/lucascantaruti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
