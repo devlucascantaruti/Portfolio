@@ -1,21 +1,28 @@
-<h1>Bem vindo!
-  
-Desenvolvedor Full-Stack</h1>
+<h1 align="center"><b>Olá, bem vindo!</b></h1>
+</br>
+<h2>👨‍💻 Meu Portfólio:</h2>
 
-<h2>👨‍💻 Meus projetos:</h2>
-
-- <b>Site de receitas (html & css)</b>
-  - [Site de receitas](https://github.com/devlucascantaruti/livro-receitas)
+- <b>Pokedex</b>
+  - [Pokedex](https://github.com/devlucascantaruti/Pokedex)
+- <b>Jogo da Velha</b>
+  - [Jogo da Velha](https://github.com/devlucascantaruti/Jogo-da-Velha)
+- <b>Site baseado no TechTudo</b>
+  - [TechTudo](https://github.com/devlucascantaruti/Site-de-Noticias)
+</br>
 
 <h2>🌱 Estou aprendendo mais sobre:</h2>
-- [Python](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
-- [AWS](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
+- <a href="https://www.udemy.com/course/aws-na-pratica/">Python</a>
+</br>
+- <a href="https://www.udemy.com/course/aws-na-pratica/">AWS</a>
 
-<h2> 🤳 Fale comigo:</h2>
+<br>
+<br>
+<h2> 🤳 Contato:</h2>
 
-[Email](mailto:devlucascantaruti@gmail.com)
+✉️[Gmail](mailto:devlucascantaruti@gmail.com)
 
-## Tecnologias
+<br>
+<b><h2>Tecnologias</h2>
 <div align="center">
   <hr>
     <img src="https://skillicons.dev/icons?i=html,css,js,firebase,java,bootstrap,electron,git,github,react,mongodb,nodejs,jquery">
