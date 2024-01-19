@@ -20,6 +20,7 @@
 <h2> 🤳 Contato:</h2>
 
 ✉️[Email](mailto:devlucascantaruti@gmail.com)
+<br>
 📄<a class="cv" href="cv/cv_lucascantaruti.pdf" download>Curriculo</a>
 
 <br>
