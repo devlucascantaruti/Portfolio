@@ -19,7 +19,8 @@
 <br>
 <h2> 🤳 Contato:</h2>
 
-✉️[Gmail](mailto:devlucascantaruti@gmail.com)
+✉️[Email](mailto:devlucascantaruti@gmail.com)
+📄<a class="cv" href="cv/cv_lucascantaruti.pdf" download>Curriculo</a>
 
 <br>
 <b><h2>Tecnologias</h2>
